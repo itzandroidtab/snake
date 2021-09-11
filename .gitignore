@@ -1,0 +1,9 @@
+*.ld
+*.lss
+*.map
+*.o
+*.bin
+*.elf
+*.lst
+.vscode
+bmptk_fixed_size_stack.c
